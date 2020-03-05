@@ -1,4 +1,4 @@
-# Машинное обучение и анализ данных Specialization #
+# Машинное обучение и анализ данных #
 
 
 [Специализация Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis) by Moscow Institute of Physics and Technology & Yandex
